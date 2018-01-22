@@ -2,8 +2,14 @@ import React from "react";
 import Database from "./firebase/database";
 import { StackNavigator, DrawerNavigator, DrawerItems } from "react-navigation";
 import Navigation from "./navigators";
-import HomeScreen from "./home";
+import HomeScreen from "./home/";
 import { SignedInDrawer, SignedOutDrawer } from "./drawer";
+
+const Home = {
+    key: "DrawerHome",
+    screen: HomeScreen,
+    label: "Home"
+};
 
 export default class RootComponent extends React.Component {
     constructor(props) {

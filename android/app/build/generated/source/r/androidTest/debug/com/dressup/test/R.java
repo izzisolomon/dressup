@@ -2292,18 +2292,19 @@ public final class R {
     public static final int common_google_play_services_install_button=0x7f0a002a;
     public static final int common_google_play_services_install_text=0x7f0a002b;
     public static final int common_google_play_services_install_title=0x7f0a002c;
-    public static final int common_google_play_services_notification_ticker=0x7f0a002d;
-    public static final int common_google_play_services_unknown_issue=0x7f0a002e;
-    public static final int common_google_play_services_unsupported_text=0x7f0a002f;
-    public static final int common_google_play_services_update_button=0x7f0a0030;
-    public static final int common_google_play_services_update_text=0x7f0a0031;
-    public static final int common_google_play_services_update_title=0x7f0a0032;
-    public static final int common_google_play_services_updating_text=0x7f0a0033;
-    public static final int common_google_play_services_wear_update_text=0x7f0a0034;
-    public static final int common_open_on_phone=0x7f0a0035;
-    public static final int common_signin_button_text=0x7f0a0036;
-    public static final int common_signin_button_text_long=0x7f0a0037;
-    public static final int status_bar_notification_info_overflow=0x7f0a0038;
+    public static final int common_google_play_services_notification_channel_name=0x7f0a002d;
+    public static final int common_google_play_services_notification_ticker=0x7f0a002e;
+    public static final int common_google_play_services_unknown_issue=0x7f0a002f;
+    public static final int common_google_play_services_unsupported_text=0x7f0a0030;
+    public static final int common_google_play_services_update_button=0x7f0a0031;
+    public static final int common_google_play_services_update_text=0x7f0a0032;
+    public static final int common_google_play_services_update_title=0x7f0a0033;
+    public static final int common_google_play_services_updating_text=0x7f0a0034;
+    public static final int common_google_play_services_wear_update_text=0x7f0a0035;
+    public static final int common_open_on_phone=0x7f0a0036;
+    public static final int common_signin_button_text=0x7f0a0037;
+    public static final int common_signin_button_text_long=0x7f0a0038;
+    public static final int status_bar_notification_info_overflow=0x7f0a0039;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0b0000;

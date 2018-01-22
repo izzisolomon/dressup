@@ -10,6 +10,8 @@ target 'DressUp' do
  pod 'Firebase/Firestore'
  pod 'Firebase/Auth'
 
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'DressUpTests' do
     inherit! :search_paths
     # Pods for testing

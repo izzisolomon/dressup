@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">639787670722-iu35lrddi2qjqgp6tj0o9b4td96rs88l.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://suit-up-8be10.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">639787670722</string>
+    <string name="google_api_key" translatable="false">AIzaSyAX0M-8hFFyJWKW9xcwP8hpxxbCUAfuw1w</string>
+    <string name="google_app_id" translatable="false">1:639787670722:android:deeec1d5e1a04f23</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAX0M-8hFFyJWKW9xcwP8hpxxbCUAfuw1w</string>
+    <string name="google_storage_bucket" translatable="false">suit-up-8be10.appspot.com</string>
+    <string name="project_id" translatable="false">suit-up-8be10</string>
+</resources>

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "639787670722",
+    "firebase_url": "https://suit-up-8be10.firebaseio.com",
+    "project_id": "suit-up-8be10",
+    "storage_bucket": "suit-up-8be10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639787670722:android:deeec1d5e1a04f23",
+        "android_client_info": {
+          "package_name": "com.dressup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639787670722-uuls4jqnqq63ci9bq826sks4qjh3jlhg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dressup",
+            "certificate_hash": "2078676b7d01237781a0baae0ab8010d62b2428f"
+          }
+        },
+        {
+          "client_id": "639787670722-iu35lrddi2qjqgp6tj0o9b4td96rs88l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0M-8hFFyJWKW9xcwP8hpxxbCUAfuw1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639787670722-iu35lrddi2qjqgp6tj0o9b4td96rs88l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639787670722-h5779a085skms66s52iqu6vfl0eihm2o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.isolomon.DressUp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

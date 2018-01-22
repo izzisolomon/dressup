@@ -25,7 +25,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
@@ -41,7 +41,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
@@ -61,7 +61,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -153,7 +153,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -197,7 +197,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
@@ -305,15 +305,15 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_text_disabled.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
@@ -381,7 +381,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -421,7 +421,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
@@ -433,7 +433,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
@@ -565,7 +565,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -581,7 +581,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
@@ -641,7 +641,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/color/common_google_signin_btn_tint.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -737,7 +737,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -797,7 +797,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -865,7 +865,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
@@ -885,7 +885,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -905,7 +905,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-mdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
@@ -941,7 +941,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
@@ -1025,7 +1025,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1081,7 +1081,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_text_light.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
@@ -1233,7 +1233,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1241,7 +1241,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1285,7 +1285,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_text_light_normal.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
@@ -1333,7 +1333,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_icon_disabled.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_rating_star_on_mtrl_alpha.png.flat",
@@ -1413,7 +1413,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
@@ -1617,11 +1617,11 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_text_dark.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1637,7 +1637,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -1693,7 +1693,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -1781,7 +1781,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
@@ -1941,7 +1941,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_icon_light.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1965,7 +1965,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1973,11 +1973,11 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
@@ -2005,7 +2005,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -2165,7 +2165,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
@@ -2281,7 +2281,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
@@ -2381,11 +2381,11 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/izzi/Desktop/DressUp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -2421,7 +2421,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
@@ -2481,7 +2481,7 @@
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6149a2806e92c7b51951b1582baf9395/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3d6c5fc5183e38b702557fb179944976/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_full_material.xml.flat",
