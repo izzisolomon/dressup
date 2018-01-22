@@ -5,12 +5,10 @@ target 'DressUp' do
   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
 
-  # Pods for DressUp
-
-  target 'DressUp-tvOSTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
+  
+ pod 'Firebase/Core'
+ pod 'Firebase/Firestore'
+ pod 'Firebase/Auth'
 
   target 'DressUpTests' do
     inherit! :search_paths
@@ -19,15 +17,3 @@ target 'DressUp' do
 
 end
 
-target 'DressUp-tvOS' do
-  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
-  # use_frameworks!
-
-  # Pods for DressUp-tvOS
-
-  target 'DressUp-tvOSTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-end

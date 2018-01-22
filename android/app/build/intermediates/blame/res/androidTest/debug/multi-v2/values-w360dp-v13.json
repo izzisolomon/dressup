@@ -21,6 +21,28 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "/Users/isolomon/Desktop/dressup/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/isolomon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/0bbbe57cb2d1666ac85a3d21b8000b49/res/values-w360dp/values-w360dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "283",
+                        "endColumns": "54",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
         }
     ]
 }

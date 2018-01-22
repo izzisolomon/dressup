@@ -1,35 +1,25 @@
 import React from "react";
-import { View, Text } from "react-native";
-import { StackNavigator, DrawerNavigator } from "react-navigation";
-import Ionicons from "react-native-vector-icons/Ionicons";
+import { SafeAreaView } from "react-native";
+import { DrawerItems } from "react-navigation";
+import SignedIn from "./signedin";
+import SignedOut from "./signedout";
 
-import MainStack from "./mainStack";
+const SignedOutDrawer = props => {
+    return (
+        <SafeAreaView forceInset={{ top: "always", horizontal: "never" }}>
+            <SignedOut {...props} />
+            <DrawerItems {...props} />
+        </SafeAreaView>
+    );
+};
 
-const RootDrawer = DrawerNavigator({
-  Home: {
-    screen: MainStack,
-    navigationOptions: {
-      drawerLabel: "Home",
-      drawerIcon: ({ tintColor, focused }) => (
-        <Ionicons
-          name={focused ? "ios-home" : "ios-home-outline"}
-          size={20}
-          style={{ color: tintColor }}
-        />
-      )
-    }
-  }
-});
+const SignedInDrawer = props => {
+    return (
+        <SafeAreaView forceInset={{ top: "always", horizontal: "never" }}>
+            <SignedIn {...props} />
+            <DrawerItems {...props} />
+        </SafeAreaView>
+    );
+};
 
-const RootNavigator = StackNavigator(
-  {
-    Home: {
-      screen: RootDrawer
-    }
-  },
-  {
-    mode: "modal",
-    headerMode: "none"
-  }
-);
-export default RootNavigator;
+export { SignedInDrawer, SignedOutDrawer };

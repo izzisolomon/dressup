@@ -1,18 +1,18 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-import RootNavigator from "./components/drawer";
+import RootComponent from "./components/root";
 
 export default class App extends React.Component {
-  render() {
-    return <RootNavigator />;
-  }
+    render() {
+        return <RootComponent />;
+    }
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center"
-  }
+    container: {
+        flex: 1,
+        backgroundColor: "#fff",
+        alignItems: "center",
+        justifyContent: "center"
+    }
 });
