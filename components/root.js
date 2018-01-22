@@ -4,11 +4,13 @@ import { StackNavigator, DrawerNavigator, DrawerItems } from "react-navigation";
 import Navigation from "./navigators";
 import HomeScreen from "./home/";
 import { SignedInDrawer, SignedOutDrawer } from "./drawer";
+import Icon from "./icon";
 
 const Home = {
     key: "DrawerHome",
     screen: HomeScreen,
-    label: "Home"
+    label: "Home",
+    icon: <Icon iconName={"ios-home"} />
 };
 
 export default class RootComponent extends React.Component {
