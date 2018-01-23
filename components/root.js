@@ -10,7 +10,12 @@ const Home = {
     key: "DrawerHome",
     screen: HomeScreen,
     label: "Home",
-    icon: <Icon iconName={"ios-home"} />
+    icon: ({ tintColor, focused }) => (
+        <Icon
+            iconName={focused ? "ios-home" : "ios-home-outline"}
+            tintColor={tintColor}
+        />
+    )
 };
 
 export default class RootComponent extends React.Component {

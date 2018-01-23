@@ -16,7 +16,7 @@ const SignedIn = props => {
                     justifyContent: "center"
                 }}
             >
-                <Icon name={ios - person - add} size={40} />
+                <Icon name={"ios-person-add-outline"} size={40} />
                 <Text style={{ fontSize: 15, padding: 7 }}>
                     {`Sign Out (${email})`}
                 </Text>

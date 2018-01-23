@@ -31,6 +31,9 @@ const createDrawerNavigator = function(screensArray, contentComponent) {
     });
     return DrawerNavigator(screensObject, {
         contentComponent: contentComponent,
+        contentOptions: {
+            activeBackgroundColor: "#DCE9EB"
+        },
         drawerOpenRoute: "DrawerOpen",
         drawerCloseRoute: "DrawerClose",
         drawerToggleRoute: "DrawerToggle"
