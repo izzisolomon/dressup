@@ -5,6 +5,7 @@ import Navigation from "./navigators";
 import HomeScreen from "./home/";
 import { SignedInDrawer, SignedOutDrawer } from "./drawer";
 import Icon from "./icon";
+import SignUpScreen from "./SignUp/";
 
 const Home = {
     key: "DrawerHome",
@@ -47,6 +48,9 @@ export default class RootComponent extends React.Component {
             {
                 RootDrawer: {
                     screen: RootDrawer
+                },
+                RootSignUp: {
+                    screen: SignUpScreen
                 }
             },
             {
